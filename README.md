@@ -23,4 +23,4 @@ Ask questions about any PDF using AI. Built with Python, Groq (LLaMA 3.1), and F
 ## What I learned
 - How RAG (Retrieval Augmented Generation) works
 - Why chunk size matters for answer quality
-- How text gets converted to vectors for semantic search
+- How text gets converted to vectors for semantic search 
