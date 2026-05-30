@@ -30,7 +30,7 @@ if uploaded_file and st.session_state.vectorstore is None:
         chunks = RecursiveCharacterTextSplitter(
             chunk_size=500, chunk_overlap=50
         ).split_documents(docs)
-        embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
+        embeddings = FastEmbedEmbeddings()
         st.session_state.vectorstore = FAISS.from_documents(chunks, embeddings)
     st.success(f"Ready! {len(chunks)} chunks loaded.")
 
