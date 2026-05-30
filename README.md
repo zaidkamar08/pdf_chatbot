@@ -19,6 +19,8 @@ Ask questions about any PDF using AI. Built with Python, Groq (LLaMA 3.1), and F
 3. Add your PDF and rename it `notes.pdf`
 4. Run `pip install -r requirements.txt`
 5. Run `python chat.py`
+6.   Open browser at http://localhost:8501
+7. Upload any PDF and start asking questions
 
 ## What I learned
 - How RAG (Retrieval Augmented Generation) works
