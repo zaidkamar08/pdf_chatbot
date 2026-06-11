@@ -11,7 +11,7 @@ Upload any PDF and start asking questions instantly. No setup needed.
 ## What it does
 
 - Upload any PDF through the browser
-- Ask questions in plain English
+- Ask questions in plain English       
 - Get accurate answers with page numbers
 - Powered by LLaMA 3.1 running on Groq
 
