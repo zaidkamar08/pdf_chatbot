@@ -48,3 +48,8 @@ Upload any PDF and start asking questions instantly. No setup needed.
 - How text gets converted to vectors for semantic search
 - How to connect an LLM to custom data without training or fine-tuning
 - How to deploy a Python AI app to the web for free
+
+## Future update
+
+-simpler ui /ux interface
+-to be more user friendly
